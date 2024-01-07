@@ -301,7 +301,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleWCD9340 \
     HotwordEnrollmentXGoogleWCD9340 \
     ImsServiceEntitlement \
-    OemDmTrigger \
     EuiccSupportPixel \
     EuiccSupportPixelPermissions \
     QtiTelephonyServicelibrary \
